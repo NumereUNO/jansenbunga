@@ -28,8 +28,8 @@ global.botname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama bot
 global.footer = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281364399250','12524000681'] // ubah aja pake nomor lu
-global.premium = ['6281364399250'] // ubah aja pake nomor lu
+global.owner = ['628153836907','628153836907'] // ubah aja pake nomor lu
+global.premium = ['628153836907'] // ubah aja pake nomor lu
 global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
 global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
 global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
